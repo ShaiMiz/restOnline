@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">restOnline</string>
+    <string name="register">הרשמה</string>
+    <string name="login">התחבר</string>
+    <string name="logo">logo</string>
+    <string name="lastname">שם משפחה</string>
+    <string name="firstname">שם פרטי</string>
+    <string name="password">סיסמא</string>
+    <string name="email">איימיל</string>
+    <string name="todo">TODO</string>
+    <string name="id2">item2</string>
+    <string name="goRegister">עבור להרשמה</string>
+    <string name="menu">תפריט</string>
+    <string name="finishRegistration">בצע הרשמה</string>
+    <string name="Logo">TODO</string>
+    <string-array name="cat_array">
+        <item>ארוחות בוקר</item>
+        <item>סלטים</item>
+        <item>מנות ראשונות</item>
+        <item>מנות עיקריות</item>
+        <item>שיפודים</item>
+        <item>שתייה קרה</item>
+        <item>קינוחים</item>
+    </string-array>
+
+</resources>
